@@ -1,0 +1,1 @@
+Follow instructions here: https://docs.deno.com/runtime/getting_started/first_project/
